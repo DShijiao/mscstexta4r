@@ -23,7 +23,7 @@
 #'
 #' \preformatted{
 #' {
-#'   "textanalyticsurl": "https://westus.api.cognitive.microsoft.com/texta/analytics/v2.0/",
+#'   "textanalyticsurl": "https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/",
 #'   "textanalyticskey": "...MSCS Text Analytics API key goes here..."
 #' }
 #' }
